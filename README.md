@@ -1,4 +1,4 @@
-# 💳 UPI Transaction Analytics Dashboard — Power BI
+# 💳 UPI Transaction Analytics Dashboard - Power BI
 
 ## 📌 Project Overview
 
