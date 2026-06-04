@@ -57,14 +57,13 @@ The following transformations were applied in **Power Query Editor**:
 - ✅ Confirmed **zero null/missing values** in the dataset
 
 ---
-## 🖼️ Screenshots
+## 📸 Screenshots
 
 ### Page 1 - Transaction and Balance
-(Transaction and Balance.png)
+![Transaction and Balance](Transaction%20and%20Balance.png)
 
 ### Page 2 - Matrix Visuals
-(Matrix Visuals.png)
----
+![Matrix Visuals](Matrix%20Visuals.png)
 
 ## 📈 Dashboard Features
 
