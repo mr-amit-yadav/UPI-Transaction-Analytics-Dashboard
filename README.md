@@ -60,10 +60,10 @@ The following transformations were applied in **Power Query Editor**:
 ## 🖼️ Screenshots
 
 ### Page 1 - Transaction and Balance
-![Overview](screenshots/Transaction and Balance.png)
+(Transaction and Balance.png)
 
 ### Page 2 - Matrix Visuals
-![Top Bottom 5](screenshots/Matrix Visuals.png)
+(Matrix Visuals.png)
 ---
 
 ## 📈 Dashboard Features
