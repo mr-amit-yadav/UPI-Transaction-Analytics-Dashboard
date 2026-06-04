@@ -14,7 +14,7 @@ The dashboard is designed to help business analysts and fintech teams quickly vi
 |---|---|
 | **File** | `UPI_Transactions.xlsx` |
 | **Records** | 20,000 transactions |
-| **Source Sheet** | Sheet1 (renamed to `UPI Transaction`) |
+| **Source Sheet** | UPI Transaction |
 | **Time Period** | 2024 |
 
 ### 🗂️ Columns in Dataset
