@@ -57,6 +57,14 @@ The following transformations were applied in **Power Query Editor**:
 - ✅ Confirmed **zero null/missing values** in the dataset
 
 ---
+## 🖼️ Screenshots
+
+### Page 1 - Transaction and Balance
+![Overview](screenshots/Transaction and Balance.png)
+
+### Page 2 - Matrix Visuals
+![Top Bottom 5](screenshots/Matrix Visuals.png)
+---
 
 ## 📈 Dashboard Features
 
@@ -66,8 +74,8 @@ The following transformations were applied in **Power Query Editor**:
 - Canvas background customized for improved aesthetics
 
 ### 📉 Visualizations
-- **Line Chart & Column Chart** with **Bookmark Toggle** — users can switch between chart types interactively
-- **Conditional Formatting** on visuals — lighter color for lowest values, darker for highest
+- **Line Chart & Column Chart** with **Bookmark Toggle** - users can switch between chart types interactively
+- **Conditional Formatting** on visuals - lighter color for lowest values, darker for highest
 - **Age Group segmentation** for demographic analysis
 - City-wise, bank-wise, purpose-wise, and status-wise breakdowns
 
